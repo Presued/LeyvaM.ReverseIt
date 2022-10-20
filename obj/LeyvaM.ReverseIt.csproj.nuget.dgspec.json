@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/manuel/Documents/LeyvaM.ReverseIt/LeyvaM.ReverseIt.csproj": {}
+    "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUB/LeyvaM.ReverseIt/LeyvaM.ReverseIt.csproj": {}
   },
   "projects": {
-    "/Users/manuel/Documents/LeyvaM.ReverseIt/LeyvaM.ReverseIt.csproj": {
+    "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUB/LeyvaM.ReverseIt/LeyvaM.ReverseIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/manuel/Documents/LeyvaM.ReverseIt/LeyvaM.ReverseIt.csproj",
+        "projectUniqueName": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUB/LeyvaM.ReverseIt/LeyvaM.ReverseIt.csproj",
         "projectName": "LeyvaM.ReverseIt",
-        "projectPath": "/Users/manuel/Documents/LeyvaM.ReverseIt/LeyvaM.ReverseIt.csproj",
-        "packagesPath": "/Users/manuel/.nuget/packages/",
-        "outputPath": "/Users/manuel/Documents/LeyvaM.ReverseIt/obj/",
+        "projectPath": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUB/LeyvaM.ReverseIt/LeyvaM.ReverseIt.csproj",
+        "packagesPath": "/Users/chrismartinez/.nuget/packages/",
+        "outputPath": "/Users/chrismartinez/Desktop/CodeStack/LEVEL1/WEEK1/GITHUB/LeyvaM.ReverseIt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/manuel/.nuget/NuGet/NuGet.Config"
+          "/Users/chrismartinez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

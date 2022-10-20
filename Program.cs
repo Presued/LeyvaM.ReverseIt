@@ -11,7 +11,7 @@ do
 
 Console.WriteLine(" All right yall lets play a game call reverse it ");
 Console.WriteLine("");
-Console.WriteLine("Please Type at Least 2 Numbers or More than 2 letters and press enter");
+Console.WriteLine("Bro, please pick any number, or any word, your choice");
 string sInput = Console.ReadLine();
 
 int nResult = 0;

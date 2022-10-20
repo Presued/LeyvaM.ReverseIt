@@ -1,0 +1,15 @@
+/Users/manuel/Documents/LeyvaM.ReverseIt/bin/Debug/net6.0/LeyvaM.ReverseIt
+/Users/manuel/Documents/LeyvaM.ReverseIt/bin/Debug/net6.0/LeyvaM.ReverseIt.deps.json
+/Users/manuel/Documents/LeyvaM.ReverseIt/bin/Debug/net6.0/LeyvaM.ReverseIt.runtimeconfig.json
+/Users/manuel/Documents/LeyvaM.ReverseIt/bin/Debug/net6.0/LeyvaM.ReverseIt.dll
+/Users/manuel/Documents/LeyvaM.ReverseIt/bin/Debug/net6.0/LeyvaM.ReverseIt.pdb
+/Users/manuel/Documents/LeyvaM.ReverseIt/obj/Debug/net6.0/LeyvaM.ReverseIt.csproj.AssemblyReference.cache
+/Users/manuel/Documents/LeyvaM.ReverseIt/obj/Debug/net6.0/LeyvaM.ReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Documents/LeyvaM.ReverseIt/obj/Debug/net6.0/LeyvaM.ReverseIt.AssemblyInfoInputs.cache
+/Users/manuel/Documents/LeyvaM.ReverseIt/obj/Debug/net6.0/LeyvaM.ReverseIt.AssemblyInfo.cs
+/Users/manuel/Documents/LeyvaM.ReverseIt/obj/Debug/net6.0/LeyvaM.ReverseIt.csproj.CoreCompileInputs.cache
+/Users/manuel/Documents/LeyvaM.ReverseIt/obj/Debug/net6.0/LeyvaM.ReverseIt.dll
+/Users/manuel/Documents/LeyvaM.ReverseIt/obj/Debug/net6.0/refint/LeyvaM.ReverseIt.dll
+/Users/manuel/Documents/LeyvaM.ReverseIt/obj/Debug/net6.0/LeyvaM.ReverseIt.pdb
+/Users/manuel/Documents/LeyvaM.ReverseIt/obj/Debug/net6.0/LeyvaM.ReverseIt.genruntimeconfig.cache
+/Users/manuel/Documents/LeyvaM.ReverseIt/obj/Debug/net6.0/ref/LeyvaM.ReverseIt.dll
